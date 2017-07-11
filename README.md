@@ -1,0 +1,2 @@
+# DirectxTry
+exercise with directx
