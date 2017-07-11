@@ -1,3 +1,3 @@
 # DirectxTry
 exercise with directx
-http://www.rastertek.com/choosing.html
+http://www.rastertek.com/
